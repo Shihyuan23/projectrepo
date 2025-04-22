@@ -1,2 +1,3 @@
-This is the initial content on the main branch.
-This is some updated content on the main branch.
+This is the combined content from both branches:
+- Main branch content: This is some updated content on the main branch.
+- Feature branch content: This is some updated content on the feature branch.
